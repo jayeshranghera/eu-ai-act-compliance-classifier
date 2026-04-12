@@ -1,0 +1,21 @@
+ai_system_description,sector,risk_level,annex_reference,reason
+Resume screening AI tool that ranks job applicants automatically,Employment,High Risk,Annex III - Category 4,AI used in employment decisions directly affects livelihoods
+AI system for automated loan approval and credit scoring,Finance,High Risk,Annex III - Category 5,Impacts access to essential financial services
+University admission AI that evaluates student applications,Education,High Risk,Annex III - Category 3,Affects access to education opportunities
+Real-time facial recognition system used at airport borders,Law Enforcement,High Risk,Annex III - Category 1,Biometric identification — high privacy and rights impact
+Customer support chatbot that assists users with product queries,Customer Service,Limited Risk,Article 52,Must disclose it is AI — no critical decisions involved
+AI predictive policing tool that forecasts crime in urban areas,Law Enforcement,High Risk,Annex III - Category 6,Used by law enforcement — risk of bias and rights violations
+AI system that detects cancer from medical imaging scans,Healthcare,High Risk,Annex III - Category 5,Medical device AI — directly impacts patient health decisions
+Autonomous vehicle self-driving system on public roads,Transport,High Risk,Annex III - Category 2,Critical infrastructure safety — risk to human life
+Social media recommendation algorithm suggesting content to users,Media,Limited Risk,Article 52,No direct harm but transparency around content amplification required
+Government social scoring system that ranks citizens by behavior,Public Administration,Prohibited,Annex I,Social scoring by public authority — explicitly banned under EU AI Act
+AI system for asylum seeker risk assessment at EU borders,Migration,High Risk,Annex III - Category 7,Migration and border control AI — affects fundamental rights
+AI tool used by judges to assist in sentencing decisions,Justice,High Risk,Annex III - Category 8,Used in administration of justice — directly affects legal outcomes
+Deepfake video generator that creates realistic fake videos of people,Media,Prohibited,Annex I,Subliminal manipulation — can cause serious harm to individuals
+AI chatbot used in mental health support and therapy sessions,Healthcare,High Risk,Annex III - Category 5,Healthcare AI interacting with vulnerable individuals
+Spam filter that classifies emails as spam or not spam,IT Services,Minimal Risk,Not applicable,No significant harm potential — standard utility tool
+AI system managing electricity grid load balancing,Energy,High Risk,Annex III - Category 2,Critical infrastructure — power grid failures affect entire populations
+AI performance monitoring tool that tracks employee productivity,Employment,High Risk,Annex III - Category 4,AI monitoring workers — affects employment conditions and rights
+AI music recommendation system on a streaming platform,Entertainment,Minimal Risk,Not applicable,No impact on fundamental rights or safety
+AI system that detects weapons in airport security scans,Security,High Risk,Annex III - Category 6,Used in law enforcement and security — biometric surveillance risk
+AI insurance pricing tool that sets premiums based on personal data,Insurance,High Risk,Annex III - Category 5,Affects access to essential services — potential for discriminatory pricing

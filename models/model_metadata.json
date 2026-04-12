@@ -1,0 +1,14 @@
+{
+  "best_model": "XGBoost",
+  "accuracy": 0.6990291262135923,
+  "f1_score": 0.689802494629386,
+  "training_samples": 411,
+  "test_samples": 103,
+  "features": 2353,
+  "classes": [
+    "High Risk",
+    "Limited Risk",
+    "Minimal Risk",
+    "Prohibited"
+  ]
+}

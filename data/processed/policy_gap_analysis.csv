@@ -1,0 +1,21 @@
+description,sector,risk_level,annex_reference,reason
+Resume screening AI for job applications,Employment,High Risk,Annex III - Category 4 (Employment),"High risk keyword: ""resume"""
+Loan approval AI for bank customers,Finance,High Risk,Annex III - Category 5 (Essential Services),"High risk keyword: ""loan"""
+University admission scoring system,Education,High Risk,Annex III - Category 3 (Education),"High risk keyword: ""university"""
+Real-time facial recognition at border control,Migration,High Risk,Annex III - Category 1 (Biometric),"High risk keyword: ""facial recognition"""
+AI chatbot for customer support,Customer Service,Limited Risk,Article 52,"Limited risk keyword: ""chatbot"""
+Predictive policing tool for crime forecasting,Law Enforcement,Minimal Risk,ML Model,Predicted by trained classifier
+Medical diagnosis AI for cancer detection,Healthcare,High Risk,Annex III - Category 5 (Essential Services),"High risk keyword: ""medical"""
+Autonomous vehicle self-driving system,Transport,High Risk,Annex III - Category 2 (Critical Infrastructure),"High risk keyword: ""autonomous vehicle"""
+Social media content recommendation algorithm,Media,Limited Risk,Article 52,"Limited risk keyword: ""recommendation"""
+Government citizen social scoring system,Public Administration,Prohibited,Annex I,"Prohibited keyword: ""social scor"""
+AI insurance premium calculator based on health data,Insurance,High Risk,Annex III - Category 5 (Essential Services),"High risk keyword: ""insurance"""
+Student performance monitoring AI in schools,Education,High Risk,Annex III - Category 3 (Education),"High risk keyword: ""student"""
+AI system for asylum seeker risk assessment,Migration,High Risk,Annex III - Category 7 (Migration),"High risk keyword: ""asylum"""
+Deepfake video generation tool,Media,Prohibited,Annex I,"Prohibited keyword: ""deepfake"""
+Smart home voice assistant,Consumer,Minimal Risk,ML Model,Predicted by trained classifier
+AI electricity grid management system,Energy,High Risk,Annex III - Category 2 (Critical Infrastructure),"High risk keyword: ""electricity grid"""
+Employee productivity monitoring AI,Employment,High Risk,Annex III - Category 4 (Employment),"High risk keyword: ""employ"""
+Spam email filter,IT Services,Minimal Risk,ML Model,Predicted by trained classifier
+AI judge sentencing support tool in courts,Justice,High Risk,Annex III - Category 6 (Law Enforcement),"High risk keyword: ""sentencing"""
+AI music playlist recommendation,Entertainment,Limited Risk,Article 52,"Limited risk keyword: ""recommendation"""
